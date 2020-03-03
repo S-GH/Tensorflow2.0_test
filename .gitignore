@@ -139,6 +139,6 @@ dmypy.json
 data/
 
 # 데이터셋 무시
-images.tfrecords/
+images.tfrecords
 
 # End of https://www.gitignore.io/api/macos,python
